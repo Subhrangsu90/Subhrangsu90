@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 About Me
-- 🚀 Currently working at Side Project: Building **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)** – a curated library of reusable frontend snippets  
+- 🚀 Currently working at **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)** – a curated library of reusable frontend snippets  
 - 🌱 Learning **DevOps & Cloud Architecture (AWS)**  
 - 💬 Ask me about **Angular, TypeScript, Micro Frontends, or Clean UI Architecture**  
 - 📫 Reach me at: [GitHub Profile](https://github.com/Subhrangsu90)  
