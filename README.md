@@ -47,8 +47,6 @@
 |--------|-------------|-------|
 | [Snippet Lab](https://github.com/Subhrangsu90/snippet-lab) | Library of reusable and production-ready frontend code snippets. | Angular, Tailwind CSS |
 | [E-Learning Platform](https://github.com/Subhrangsu90/Angular-MFE-Setup-with-Native-Federation-Standalone) | Scalable education platform using Micro Frontends. | Angular, Node.js, Webpack |
-| Smart Airport System | Part of Adani project with PWC – handles real-time flight monitoring and alerts. | Angular, PrimeNG, REST |
-| Touchless Talent Auction | Custom auction platform for Adani HR team. | Angular, Material, WebSockets |
 
 ---
 
