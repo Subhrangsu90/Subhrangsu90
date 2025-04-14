@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **[Your Current Project](#)**
+- 🔭 I’m currently working on **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)**
 - 🌱 I’m learning **[Technologies/Topics]**
 - 💬 Ask me about **[Your Expertise]**
 - 📫 Reach me at: **[Your Email/LinkedIn/GitHub Profile]**
