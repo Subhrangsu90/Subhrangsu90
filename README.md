@@ -10,16 +10,17 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working on **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)**
-- 🌱 I’m learning **[Technologies/Topics]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 Reach me at: **[Your Email/LinkedIn/GitHub Profile]**
+- 🌱 I’m learning **[DevOps]**
+- 💬 Ask me about **[Fronten Development]**
+- 📫 Reach me at: **[GitHub Profile](https://github.com/Subhrangsu90)**
 - ⚡ Fun fact: **[Something Fun About You]**
 
 ---
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -39,12 +40,6 @@
 
 ---
 
-### 🔥 Recent Projects
-- **[Project 1](#)** - Brief description of the project.
-- **[Project 2](#)** - Brief description of the project.
-- **[Project 3](#)** - Brief description of the project.
-
----
 
 ### 🌐 Connect With Me
 <p align="left">
