@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)**
 - 🌱 I’m learning **DevOps**
 - 💬 Ask me about **Fronten Development**
-- 📫 Reach me at: **GitHub Profile](https://github.com/Subhrangsu90)**
+- 📫 Reach me at: **GitHub Profile(https://github.com/Subhrangsu90)**
 - ⚡ Fun fact: **[Something Fun About You]**
 
 ---
