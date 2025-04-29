@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 - 🚀 Currently working at **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)** – a curated library of reusable frontend snippets  
-- 🌱 Learning **DevOps & Cloud Architecture (AWS)**  
+- 🌱 Learning **Node.js and Nest.js**  
 - 💬 Ask me about **Angular, TypeScript, Micro Frontends, or Clean UI Architecture**  
 - 📫 Reach me at: [GitHub Profile](https://github.com/Subhrangsu90)  
 - ⚡ Fun fact: I believe in **"Learning by Building"** and I love turning complex problems into elegant solutions  
