@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 About Me
-- 🚀 Currently working at **[Snippet Lab](https://github.com/Subhrangsu90/snippet-lab)** – a curated library of reusable frontend snippets  
+- 🚀 Currently working at **[DrishtiUI](https://github.com/Subhrangsu90/drishti-ui-lib.git)** – a lightweight library of reusable frontend components using Web Component and Lit 
 - 🌱 Learning **Node.js and Nest.js**  
 - 💬 Ask me about **Angular, TypeScript, Micro Frontends, or Clean UI Architecture**  
 - 📫 Reach me at: [GitHub Profile](https://github.com/Subhrangsu90)  
